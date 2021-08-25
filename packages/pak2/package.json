@@ -1,0 +1,13 @@
+{
+  "name": "@packs/pak2",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "babel-node ./src/index.js"
+  },
+  "dependencies": {
+    "@packs/pak1": "^1.0.0",
+    "@packs/ts": "^1.0.0"
+  }
+}

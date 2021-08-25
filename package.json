@@ -1,0 +1,16 @@
+{
+  "name": "lerna-playground",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "author": "<frankychantakyu@yahoo.com.hk>"
+}
